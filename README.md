@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/zeynepgulsoy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  </p>
 ## Languages and Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
